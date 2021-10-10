@@ -3,9 +3,8 @@
 #include <iostream>
 #include"Menu.h"
 #include"Sinhvien.h"
-#include<string>
 #include"dsLop.h"
-#include "dsLop.cpp"
+#include <string>
 using namespace std;
 
 
@@ -81,13 +80,4 @@ int main()
             break;
         }
     }
-
-
-
-
-
-
-
-
-
 }
